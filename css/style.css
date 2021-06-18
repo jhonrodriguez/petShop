@@ -11,7 +11,7 @@
     color: #FFF
     
 }
-header .bottom h1 {
+header .bottom h1, .f-top h4 {
     font-family: 'roboto' sans-serif;
     font-weight: 700;
     color: #FFFFFF;
@@ -42,8 +42,15 @@ header .bottom nav ul li {
     font-size: 30px;
 
 }
+
 .backimg span{
     color: #FFF;
+}
+
+.paw img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .paw h3{
@@ -53,6 +60,14 @@ header .bottom nav ul li {
     color: #3C2313;
     text-align: center;
 
+}
+
+.paw a{
+    text-align: center;
+    font-size: 15px;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+    color: #666666;
 }
 
 .f-top{
@@ -72,4 +87,7 @@ header .bottom nav ul li {
     color: #FFF;
     font-size: 10px;
     text-align: center;
+}
+.f-top h4 span{
+    color: #F0A83E;
 }

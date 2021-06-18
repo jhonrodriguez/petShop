@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700&display=swap');
+.top{
+    background-color: #222;
+    font-family: 'Roboto', sans-serif;
+    font-size: 10px;
+    font-weight: 400;
+    color:#F3F3F3;
+}
+.bottom{
+    background-color: #F0A83E;
+    color: #FFF
+    
+}
+header .bottom h1 {
+    font-family: 'roboto' sans-serif;
+    font-weight: 700;
+    color: #FFFFFF;
+    font-size: 20px;
+
+}
+header .bottom h1 span{
+color:#3C2313; 
+font-size: 20px;
+}
+
+header .bottom nav ul li {
+    font-family: 'Roboto', sans-serif;
+    font-size: 13px;
+    color: #FFF ;
+}
+.backimg{
+    background: cornsilk url("../img/bowlpet.png") no-repeat center;
+    background-size: cover;
+    height: 400px;
+}
+.backimg {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+}
+.backimg h2{
+    font-size: 30px;
+
+}
+.backimg span{
+    color: #FFF;
+}
+
+.paw h3{
+    font-family: 'Roboto', sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    color: #3C2313;
+    text-align: center;
+
+}
+
+.f-top{
+    background-color: #3C2313;
+    font-family: 'roboto';
+    font-size: 20px;
+    font-weight: 700;
+    color: #FFF;
+}
+
+.ubi, .tel, .mail{
+    font-size: 50px;
+}
+.f-bott{
+    background-color: #222;
+    font-family: 'Roboto', sans-serif;
+    color: #FFF;
+    font-size: 10px;
+    text-align: center;
+}
